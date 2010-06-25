@@ -1,0 +1,13 @@
+body {
+  background: #333333; }
+
+#content {
+  background: #f3f3f3;
+  color: #191919;
+  width: 600px;
+  margin: 0 auto; }
+  #content h1 {
+    border-bottom: 2px solid #222222;
+    background: #1878dd;
+    color: #f3f3f3;
+    text-align: center; }

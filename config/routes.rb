@@ -1,4 +1,6 @@
 TodoListRails3::Application.routes.draw do |map|
+  resources :to_dos
+  root :to => "to_dos#index"
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

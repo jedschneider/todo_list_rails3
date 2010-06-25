@@ -7,6 +7,12 @@ gem 'rails', '3.0.0.beta4'
 
 gem 'sqlite3-ruby', :require => 'sqlite3'
 gem 'haml'
+
+group :test do
+  gem 'shoulda'
+  gem 'factory_girl'
+  gem 'leftright'
+end
 # Use unicorn as the web server
 # gem 'unicorn'
 
