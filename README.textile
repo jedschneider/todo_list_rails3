@@ -1,0 +1,11 @@
+== Welcome to the ToDo App for the kickstart class
+
+git clone git://github.com/jedschneider/todo_list_rails3.git
+
+or fork it and clone from your repo
+
+@cd todo_list_rails3@
+@bundle install@
+
+you are up and running
+
